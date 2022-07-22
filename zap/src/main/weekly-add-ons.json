@@ -33,7 +33,6 @@
       ":addOns:retest",
       ":addOns:retire",
       ":addOns:reveal",
-      ":addOns:savexmlmessage",
       ":addOns:sequence",
       ":addOns:scripts",
       ":addOns:selenium",
